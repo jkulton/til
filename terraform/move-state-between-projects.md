@@ -1,6 +1,6 @@
 # Move State Between Projects
 
-The `terraform state mv` command allows for moving an existing remote resource
+The [`terraform state mv`](https://www.terraform.io/cli/commands/state/mv) command allows for moving an existing remote resource
 to be specified by a different instance resource address in Terraform. Said
 another way, `state mv` can also move a resource's state _between_ Terraform
 projects without tearing down or rebuilding the resource itself.
