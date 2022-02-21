@@ -15,3 +15,5 @@ The command also accepts `-state` and `-state-out` options, which support moving
 state into or out of a provided local file. These options can be especiall useful
 if you can't specify a module to the move the state into or out of directly because
 the Terraform projects cannot access one another.
+
+Detailed example with local files [here](https://gist.github.com/jkulton/7cd7077309fa97f431efc4fc8a98923b).
