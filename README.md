@@ -8,6 +8,7 @@
 
 - [GitHub](#github)
 - [PostgreSQL](#postgresql)
+- [Ruby](#ruby)
 - [Terraform](#terraform)
 
 ---
@@ -20,6 +21,10 @@
 ### PostgreSQL
 
 - [Create Index Without Locking Table](./postgres/create-index-without-locking-table.md)
+
+### Ruby
+
+- [Get Object Instance Methods](./ruby/get-object-instance-methods.md)
 
 
 ### Terraform
