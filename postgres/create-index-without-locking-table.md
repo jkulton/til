@@ -1,9 +1,9 @@
 # Create Index Without Locking Table
 
 Creating an index on a column typically locks a table from inserts, updates, or deletes
-for the entire index process. For tables with with less data or typical load this might
-be acceptable. For tables with with lots of data or tables under heavy query load you
-might consider using the PostgreSQL's `CONCURRENTLY` create index option.
+for the entire index process. For tables with less data or typical load this might be
+acceptable. For tables with lots of data or under heavy query load you might consider
+using PostgreSQL's `CONCURRENTLY` create index option.
 
 ```sql
 CREATE INDEX CONCURRENTLY idx_created_at ON users(created_at);
