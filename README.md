@@ -10,6 +10,7 @@
 - [PostgreSQL](#postgresql)
 - [Ruby](#ruby)
 - [Terraform](#terraform)
+- [Unix Commands](#unix-commands)
 
 ---
 
@@ -30,6 +31,10 @@
 ### Terraform
 
 - [Move State Between Projects](./terraform/move-state-between-projects.md)
+
+### Unix Commands
+
+- [seq](./unix-commands/seq.md)
 
 ---
 
