@@ -34,6 +34,7 @@
 
 ### Unix Commands
 
+- [cal](./unix-commands/cal.md)
 - [seq](./unix-commands/seq.md)
 
 ---
