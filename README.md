@@ -36,6 +36,7 @@
 
 - [cal](./unix-commands/cal.md)
 - [seq](./unix-commands/seq.md)
+- [xargs](./unix-commands/xargs.md)
 
 ---
 
