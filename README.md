@@ -22,6 +22,7 @@
 ### PostgreSQL
 
 - [Create Index Without Locking Table](./postgres/create-index-without-locking-table.md)
+- [psql Expanded Display](./postgres/psql-expanded-display.md)
 
 ### Ruby
 
