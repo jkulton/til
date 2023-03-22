@@ -36,6 +36,7 @@
 ### Unix Commands
 
 - [cal](./unix-commands/cal.md)
+- [comm](./unix-commands/comm.md)
 - [seq](./unix-commands/seq.md)
 - [xargs](./unix-commands/xargs.md)
 
